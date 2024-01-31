@@ -1,0 +1,43 @@
+{
+    "name": "blomstra/flarum-linear",
+    "description": "A Flarum Intergation with Linear to create issues from discussions",
+    "keywords": [
+        "flarum",
+        "linear"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "support": {
+        "issues": "https://blomstra.net",
+        "source": "https://github.com/blomstra/flarum-linear"
+    },
+    "homepage": "https://blomstra.net",
+    "require": {
+        "php": "^8.0",
+        "flarum/core": "^1.8",
+        "blomstra/linear": "^0.1"
+    },
+    "authors": [
+        {
+            "name": "Meezaan-ud-Din A Wal-Ikram",
+            "email": "m@meezaan.net",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Blomstra\\Linear\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Blomstra Linear",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-map-marker-alt",
+                "backgroundColor": "#e74c3c",
+                "color": "#fff"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+blomstra-linear:
+  admin:
+    permissions:
+      add_to_linear: Add to Linear
+    settings:
+      title: Blomstra Linear
+      token_label: Your Linear Personal Access Token
+      token_description: Get it from your Linear Account at https://linear.app. Once you have entered your token and saved it, please refresh the page to load the teams.
+      cachettl_label: Linear API Response Cache TTL
+      cachettl_description: How many seconds should we cache the Linear API response for? If empty or set to 0, there will be no caching.
+      teams_header: Teams in your Linear Account
+      default_team_label: Select a default team
+      default_team_description: This is the team will be be listed first when sending a discussion to Linear as an issue.
+
+
+  forum:
+    controls:
+      send_to_linear_button: Send to Linear
+
+  lib:
+    original_post: Original Post
+  badges:
+    linear:
+      tooltip: This post has been sent to Linear
+
