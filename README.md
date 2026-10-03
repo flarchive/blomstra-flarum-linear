@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of blomstra/flarum-linear.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/flarum-linear) or the [upstream repository](https://github.com/blomstra/flarum-linear).
 
-**0** versions archived · Latest: [`0.1.0-beta.22`](https://github.com/flarchive/blomstra-flarum-linear/tree/archive/v0.1.0-beta.22) · License: `MIT` · Flarum: `^1.8`
+**21** versions archived · Latest: [`0.1.0-beta.22`](https://github.com/flarchive/blomstra-flarum-linear/tree/archive/v0.1.0-beta.22) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0-beta.1` | 2024-01-23 | `^1.8` | [Browse](https://github.com/flarchive/blomstra-flarum-linear/tree/archive/v0.1.0-beta.1) |
+| `0.1.0-beta.11` | 2024-01-31 | `^1.8` | [Browse](https://github.com/flarchive/blomstra-flarum-linear/tree/archive/v0.1.0-beta.11) |
+| `0.1.0-beta.12` | 2024-02-01 | `^1.8` | [Browse](https://github.com/flarchive/blomstra-flarum-linear/tree/archive/v0.1.0-beta.12) |
+| `0.1.0-beta.13` | 2024-02-01 | `^1.8` | [Browse](https://github.com/flarchive/blomstra-flarum-linear/tree/archive/v0.1.0-beta.13) |
+| `0.1.0-beta.14` | 2024-02-05 | `^1.8` | [Browse](https://github.com/flarchive/blomstra-flarum-linear/tree/archive/v0.1.0-beta.14) |
+| `0.1.0-beta.15` | 2024-02-05 | `^1.8` | [Browse](https://github.com/flarchive/blomstra-flarum-linear/tree/archive/v0.1.0-beta.15) |
+| `0.1.0-beta.16` | 2024-02-12 | `^1.8` | [Browse](https://github.com/flarchive/blomstra-flarum-linear/tree/archive/v0.1.0-beta.16) |
+| `0.1.0-beta.17` | 2024-02-13 | `^1.8` | [Browse](https://github.com/flarchive/blomstra-flarum-linear/tree/archive/v0.1.0-beta.17) |
+| `0.1.0-beta.18` | 2024-02-27 | `^1.8` | [Browse](https://github.com/flarchive/blomstra-flarum-linear/tree/archive/v0.1.0-beta.18) |
+| `0.1.0-beta.19` | 2024-03-07 | `^1.8` | [Browse](https://github.com/flarchive/blomstra-flarum-linear/tree/archive/v0.1.0-beta.19) |
+
+[View all 21 versions](https://github.com/flarchive/blomstra-flarum-linear/tags)
 
 Catalog entry: [packages/blomstra-flarum-linear.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-flarum-linear.json)
 
